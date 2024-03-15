@@ -1,0 +1,12 @@
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\MetaGames.dll.config
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\MetaGames.dll
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\MetaGames.pdb
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\EntityFramework.dll
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\EntityFramework.xml
+C:\Users\администратор\source\repos\Games_Information\MetaGames\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\администратор\source\repos\Games_Information\MetaGames\obj\Debug\MetaGames.csproj.AssemblyReference.cache
+C:\Users\администратор\source\repos\Games_Information\MetaGames\obj\Debug\MetaGames.csproj.CoreCompileInputs.cache
+C:\Users\администратор\source\repos\Games_Information\MetaGames\obj\Debug\MetaGames.csproj.CopyComplete
+C:\Users\администратор\source\repos\Games_Information\MetaGames\obj\Debug\MetaGames.dll
+C:\Users\администратор\source\repos\Games_Information\MetaGames\obj\Debug\MetaGames.pdb
